@@ -1,6 +1,6 @@
 
-![stack](https://github.com/shubhhampgit01/POC-Satck-Card-Animation/assets/138300875/ea12e3bc-09c2-4c22-9e83-d1c8f8b4b03f)
-![Screenshot 2024-03-15 at 2 35 41 PM](https://github.com/shubhhampgit01/POC-Satck-Card-Animation/assets/138300875/6e2b9a40-6526-4bc6-8abe-a77addd7b50a)
+![stack](https://github.com/shubhhampgit01/POC-Satck-Card-Animation/assets/138300875/b8f9853d-ae5e-4572-939d-c8d6d64128bf)
+![stack1](https://github.com/shubhhampgit01/POC-Satck-Card-Animation/assets/138300875/3be39113-74db-4c7b-b37d-8e99228a1970)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
